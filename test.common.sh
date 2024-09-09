@@ -6,11 +6,7 @@ but without first pushing my existing work to the remote repository.
 
 I might discard the changes in the new feature or might need to push both the new feature 
 as well as the earlier changes to the remote repository, at a later stage.
-<<<<<<< HEAD
-IX
-=======
-9
->>>>>>> conflict
+
 From what I know about Git, I think I need to create a new local branch, 
 which I can do using git checkout -b NEW_BRANCH_NAME. 
 
